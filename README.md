@@ -3,14 +3,14 @@ Automated testing enviroment
 
 Made 3 tests for saucedemo.com
 
-login.robot
+login.robot, 
   goal is to login to the page
   
-chooseproduct.robot
+chooseproduct.robot, 
   goal is to login to the page
   add a product to the shopping cart
   
-checkout.robot
+checkout.robot, 
   goal is to login to the page
   add a product to the shopping cart
   go to shopping cart and then to checkout
